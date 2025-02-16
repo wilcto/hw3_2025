@@ -98,6 +98,7 @@ grid-row: 5;
 
  /* Step 8: Write the selector/rule property to style the .text-block class. */
  .text-block {
+     margin: auto;
      display: inline-block;
      text-align: center;
      vertical-align: middle;
