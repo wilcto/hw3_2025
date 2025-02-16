@@ -40,7 +40,7 @@ first div in the grid  and place it in the grid. */
 
 .container > :first-child {
   grid-column: 1 / -1; /* Take up all columns */
-  background-image: url('images/header.jpg');
+  background-image: url('../images/header.jpg');
   background-size: cover;
   background-attachment: fixed; /* Parallax effect */
   background-position: center;
